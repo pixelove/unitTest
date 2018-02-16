@@ -1,0 +1,23 @@
+{
+  "name": "unittest",
+  "version": "1.0.0",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelove/unitTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixelove/unitTest/issues"
+  },
+  "homepage": "https://github.com/pixelove/unitTest#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
